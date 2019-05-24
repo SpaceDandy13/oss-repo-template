@@ -1,8 +1,11 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## (Donglin Liu)
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+### email: liud8@rpi.edu
+### github account: Donglin Liu
+### mattermost : Donglin Liu
+Photo of Donglin !(images/donny.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
