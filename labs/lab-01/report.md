@@ -11,5 +11,6 @@
     Ask as many people as possible.
     
 8.chapter 3 of Free Culture
-  
+  Jesse Jordan was a RPI student. He modified a search engine built by others by fixing a bug within the Microsoft file-sharing system.
+But because of some music files uploaded by users, he faced a lawsuit filed by RIAA. I think Jesse did nothing wrong since he just built the searching engine. He did not upload or ask user to upload music file. RIAA should file those users who uploaded music. To avoid these kind of situations, It is important to think about copyright when doing a project.  
   
