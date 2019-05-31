@@ -25,3 +25,9 @@ But because of some music files uploaded by users, he faced a lawsuit filed by R
 ![5.png](5.png)
 ![6.png](6.png)
 ![7.png](7.png)
+
+16.Regex
+![11.png](11.png)
+![12.png](12.png)
+![13.png](13.png)
+![14.png](14.png)
