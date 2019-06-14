@@ -1,3 +1,7 @@
+# Part 1
+$\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
+
+
 # Part 2
 Project: Observatory
 contributors: 48
