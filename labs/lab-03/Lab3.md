@@ -4,7 +4,7 @@
 
 # Part 2
 
-Project: Observatory
+## Project: Observatory
 contributors: 48
 total lines: 33839 + 19951 = 53790
 first commit: 
@@ -51,6 +51,10 @@ current branchs: 18 + 2
   remotes/origin/HEAD -> origin/master
   remotes/origin/dev
   remotes/origin/master
+  
+  ![gitstats.png](gitstats.png)
+  we can see that total line is different(33680 and 33839)
+  gitstats says there is 60 authers, but I only see 41 contributers.
 
 
 ## MultiMC  
