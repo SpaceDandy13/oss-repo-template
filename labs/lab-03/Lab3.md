@@ -1,6 +1,6 @@
 # Part 1
 ![latex1.png](latex1.png)
-
+![latex2.png](latex2.png)
 
 # Part 2
 Project: Observatory
