@@ -3,6 +3,10 @@
 3. 
   Without a license, users will not have permission to use the code under copyright, which is bad for an open source project. 
   A license can make sure everyone could use and share the code safely.
+  people will not join the project if it doesn't have an license.
   
 4.
-  If a project does not have 
+  If a project does not have an explicit license, it follows default copyright laws. That means codes are actually owned by the person who wrote it. As a result, I do not have right to use or share the code.
+  
+5.
+  Yes, I agree with this claim.
