@@ -1,4 +1,8 @@
 # Part 1
+
+## wiki
+https://github.com/SpaceDandy13/oss-repo-template/wiki
+## latex
 ![latex1.png](latex1.png)
 ![latex2.png](latex2.png)
 
