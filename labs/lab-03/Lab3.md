@@ -61,7 +61,7 @@ current branchs: 18 + 2
   gitstats says there is 60 authers, but I only see 41 contributers.
 
 ## Teammates' project
-## MultiMC  
+# MultiMC  
 # The number of contributors:  
 44
 # Number of lines of code:  
