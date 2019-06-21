@@ -10,3 +10,18 @@
   
 5.
   Yes, I agree with this claim. I think the main reason why Gopher was beated is that it required the payment of a licensing fee. It failed to follow open systems model, and developers stoped using it. Developers perfer Web, since it is open and free. 
+
+
+
+
+
+
+8.
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/huimingcheng/autograding | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/didioj/codebuddy | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/nicklczk/howareyou | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/musicexmachina/mxm | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/open-scanner-serial/oss | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
