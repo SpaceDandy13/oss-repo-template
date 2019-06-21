@@ -9,4 +9,4 @@
   If a project does not have an explicit license, it follows default copyright laws. That means codes are actually owned by the person who wrote it. As a result, I do not have right to use or share the code.
   
 5.
-  Yes, I agree with this claim.
+  Yes, I agree with this claim. I think the main reason why Gopher was beated is that it required the payment of a licensing fee. It failed to follow open systems model, and developers stoped using it. Developers perfer Web, since it is open and free. 
