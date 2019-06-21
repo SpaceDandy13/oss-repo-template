@@ -13,7 +13,7 @@
 
 6.
   Android uses the Apache license 2.0:
-  Android is about freedom and choice. The purpose of Android is to promote openness in the mobile world. Moreover, free systems will attract more developers. Apache license is a permissive free software license. Thus it is a suitable license for android.
+  Android is about freedom and choice. "The purpose of Android is to promote openness in the mobile world and we can't predict or dictate all the uses for our software". As a result, they think LGPL is too restrictive. Moreover, free systems will attract more developers. Apache license is a permissive free software license. Thus it is a suitable license for android.
 
 7.
 https://github.com/ziyangji/business-model
