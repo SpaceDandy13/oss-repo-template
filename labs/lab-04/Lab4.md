@@ -12,7 +12,8 @@
   Yes, I agree with this claim. I think the main reason why Gopher was beated is that it required the payment of a licensing fee. It failed to follow open systems model, and developers stoped using it. Developers perfer Web, since it is open and free. 
 
 6.
-  
+  Android uses the Apache license 2.0:
+  Android is about freedom and choice. The purpose of Android is to promote openness in the mobile world. Moreover, free systems will attract more developers. Apache license is a permissive free software license. Thus it is a suitable license for android.
 
 7.
 https://github.com/ziyangji/business-model
