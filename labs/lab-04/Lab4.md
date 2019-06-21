@@ -11,7 +11,8 @@
 5.
   Yes, I agree with this claim. I think the main reason why Gopher was beated is that it required the payment of a licensing fee. It failed to follow open systems model, and developers stoped using it. Developers perfer Web, since it is open and free. 
 
-
+6.
+  
 
 
 
