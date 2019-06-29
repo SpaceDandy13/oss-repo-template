@@ -36,9 +36,37 @@
 ![step5/step3.png](step5.png)
 
 # Makefile
+```
+all: static_block dynamic_block 
 
+program.o: ../program.c
+	cc -c ../program.c -o program.o
 
+static_lib.a: static_lib.o
+	ar qc static_lib.a static_lib.o
+
+static_lib.o: ../source/block.c
+	cc -c ../source/block.c -o static_lib.o
+
+static_block: program.o static_lib.a
+	cc program.o static_lib.a -o static_block
+
+dynamic_lib.o: ../source/block.c
+	cc -fPIC -c ../source/block.c -o dynamic_lib.o
+
+dynamic_lib.dylib: dynamic_lib.o
+	cc -shared -o dynamic_lib.dylib dynamic_lib.o
+
+dynamic_block: program.o dynamic_lib.dylib
+	cc program.o dynamic_lib.dylib -o dynamic_block -Wl,-rpath .
+
+.PHONY: clean
+clean:
+	rm -rf *.o *.a *.so **/a.out static_block dynamic_block lib/
+
+```
 # CMakeLists.txt
+```
 cmake_minimum_required(VERSION 3.0)
 project(Lab5)
 
@@ -49,7 +77,7 @@ target_link_libraries(dynamic_block shared_lib)
 add_library(static_lib STATIC source/block.c)
 add_executable(static_block program.c)
 target_link_libraries(static_block static_lib)
-
+```
 # Makefile created by cmake
 ```
 # CMAKE generated file: DO NOT EDIT!
