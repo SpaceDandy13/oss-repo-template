@@ -244,6 +244,66 @@ dynamic_block/fast:
 	$(MAKE) -f CMakeFiles/dynamic_block.dir/build.make CMakeFiles/dynamic_block.dir/build
 .PHONY : dynamic_block/fast
 
+block.o: block.c.o
+
+.PHONY : block.o
+
+# target to build an object file
+block.c.o:
+	$(MAKE) -f CMakeFiles/static_lib.dir/build.make CMakeFiles/static_lib.dir/block.c.o
+	$(MAKE) -f CMakeFiles/dynamic_lib.dir/build.make CMakeFiles/dynamic_lib.dir/block.c.o
+.PHONY : block.c.o
+
+block.i: block.c.i
+
+.PHONY : block.i
+
+# target to preprocess a source file
+block.c.i:
+	$(MAKE) -f CMakeFiles/static_lib.dir/build.make CMakeFiles/static_lib.dir/block.c.i
+	$(MAKE) -f CMakeFiles/dynamic_lib.dir/build.make CMakeFiles/dynamic_lib.dir/block.c.i
+.PHONY : block.c.i
+
+block.s: block.c.s
+
+.PHONY : block.s
+
+# target to generate assembly for a file
+block.c.s:
+	$(MAKE) -f CMakeFiles/static_lib.dir/build.make CMakeFiles/static_lib.dir/block.c.s
+	$(MAKE) -f CMakeFiles/dynamic_lib.dir/build.make CMakeFiles/dynamic_lib.dir/block.c.s
+.PHONY : block.c.s
+
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.o: mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.o
+
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.o
+
+# target to build an object file
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.o:
+	$(MAKE) -f CMakeFiles/static_block.dir/build.make CMakeFiles/static_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.o
+	$(MAKE) -f CMakeFiles/dynamic_block.dir/build.make CMakeFiles/dynamic_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.o
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.o
+
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.i: mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.i
+
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.i
+
+# target to preprocess a source file
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.i:
+	$(MAKE) -f CMakeFiles/static_block.dir/build.make CMakeFiles/static_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.i
+	$(MAKE) -f CMakeFiles/dynamic_block.dir/build.make CMakeFiles/dynamic_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.i
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.i
+
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.s: mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.s
+
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.s
+
+# target to generate assembly for a file
+mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.s:
+	$(MAKE) -f CMakeFiles/static_block.dir/build.make CMakeFiles/static_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.s
+	$(MAKE) -f CMakeFiles/dynamic_block.dir/build.make CMakeFiles/dynamic_block.dir/mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.s
+.PHONY : mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -256,6 +316,12 @@ help:
 	@echo "... dynamic_lib"
 	@echo "... edit_cache"
 	@echo "... dynamic_block"
+	@echo "... block.o"
+	@echo "... block.i"
+	@echo "... block.s"
+	@echo "... mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.o"
+	@echo "... mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.i"
+	@echo "... mnt/c/Users/liudonglin/OSS/CSCI-49XX-OpenSource/Modules/BuildSystems/Lab-Example/program.s"
 .PHONY : help
 
 
