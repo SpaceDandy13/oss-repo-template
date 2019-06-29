@@ -24,16 +24,16 @@
 
 [step4/CMakeLists.txt](step4/CMakeLists.txt)
 
-![step4/step3.png](step4_1.png)
+![step4/step4.png](step4_1.png)
 
-![step4/step3.png](step4_2.png)
+![step4/step4.png](step4_2.png)
 
 # Step 5
 [step5/MathFunctions/CMakeLists.txt](step5/MathFunctions/CMakeLists.txt)
 
 [step5/CMakeLists.txt](step5/CMakeLists.txt)
 
-![step5/step3.png](step5.png)
+![step5/step5.png](step5.png)
 
 # Makefile
 ```
@@ -342,3 +342,9 @@ cmake_check_build_system:
 dynamic_block: 8296
 
 static_block: 8464
+
+# Output
+
+![dynamic/dynamic.png](dynamic.png)
+
+![static/static.png](static.png)
