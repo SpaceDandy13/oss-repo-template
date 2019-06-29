@@ -1,37 +1,37 @@
 # Step 1
-[step1/tutorial.cxx](step1/tutorial.cxx)
+[Step1/tutorial.cxx](Step1/tutorial.cxx)
 
-Link:[step1/CMakeLists.txt](step1/CMakeLists.txt)
+[Step1/CMakeLists.txt](Step1/CMakeLists.txt)
 
 ![step1/step1.png](step1.png)
 
 # Step 2
-[step2/tutorial.cxx](step2/tutorial.cxx)
+[Step2/tutorial.cxx](Step2/tutorial.cxx)
 
-[step2/CMakeLists.txt](step2/CMakeLists.txt)
+[Step2/CMakeLists.txt](Step2/CMakeLists.txt)
 
 ![step2/step2.png](step2.png)
 
 # Step 3
-[step3/MathFunctions/CMakeLists.txt](step3/MathFunctions/CMakeLists.txt)
+[Step3/MathFunctions/CMakeLists.txt](Step3/MathFunctions/CMakeLists.txt)
 
-[step3/CMakeLists.txt](step3/CMakeLists.txt)
+[Step3/CMakeLists.txt](Step3/CMakeLists.txt)
 
 ![step3/step3.png](step3.png)
 
 # Step 4
-[step4/MathFunctions/CMakeLists.txt](step4/MathFunctions/CMakeLists.txt)
+[step4/MathFunctions/CMakeLists.txt](Step4/MathFunctions/CMakeLists.txt)
 
-[step4/CMakeLists.txt](step4/CMakeLists.txt)
+[step4/CMakeLists.txt](Step4/CMakeLists.txt)
 
 ![step4/step4.png](step4_1.png)
 
 ![step4/step4.png](step4_2.png)
 
 # Step 5
-[step5/MathFunctions/CMakeLists.txt](step5/MathFunctions/CMakeLists.txt)
+[step5/MathFunctions/CMakeLists.txt](Step5/MathFunctions/CMakeLists.txt)
 
-[step5/CMakeLists.txt](step5/CMakeLists.txt)
+[step5/CMakeLists.txt](Step5/CMakeLists.txt)
 
 ![step5/step5.png](step5.png)
 
