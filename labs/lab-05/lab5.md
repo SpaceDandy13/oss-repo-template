@@ -337,3 +337,8 @@ cmake_check_build_system:
 .PHONY : cmake_check_build_system
 
 ```
+# Size
+
+dynamic_block: 8296
+
+static_block: 8464
