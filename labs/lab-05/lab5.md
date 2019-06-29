@@ -1,7 +1,7 @@
 # Step 1
-[step1/tutorial.cxx](/step1/tutorial.cxx)
+[step1/tutorial.cxx](step1/tutorial.cxx)
 
-[step1/CMakeLists.txt](/step1/CMakeLists.txt)
+[step1/CMakeLists.txt](step1/CMakeLists.txt)
 
 ![step1/step1.png](step1.png)
 
