@@ -1,5 +1,6 @@
 # 1
 ## code:
+```
 def generate_graph(words):
     G = nx.Graph(name="words")
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
@@ -52,3 +53,4 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
             print("None")
+```
