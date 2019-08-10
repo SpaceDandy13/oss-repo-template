@@ -8,10 +8,10 @@
 
 # Checkpoint 1
 
-![picture1.png](picture1.png)
-![picture1_new.png](picture1_new.png)
-![picture2.png](picture2.png)
-![picture2_new.png](picture2_new.png)
-![picture3.png](picture3.png)
-![picture3_new.png](picture3_new.png)
+![picture1.jpg](picture1.jpg)
+![picture1_new.jpg](picture1_new.jpg)
+![picture2.jpg](picture2.jpg)
+![picture2_new.jpg](picture2_new.jpg)
+![picture3.jpg](picture3.jpg)
+![picture3_new.jpg](picture3_new.jpg)
 ![checkpoint3.png](checkpoint3.png)
