@@ -6,7 +6,7 @@
 
 ![checkpoint2.png](checkpoint2.png)
 
-# Checkpoint 1
+# Checkpoint 3
 
 ![picture1.jpg](picture1.jpg)
 ![picture1_new.jpg](picture1_new.jpg)
